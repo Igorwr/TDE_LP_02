@@ -1,0 +1,14 @@
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.AssemblyInfoInputs.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.AssemblyInfo.cs
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.csproj.CoreCompileInputs.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\bin\Debug\net8.0\TDE02.exe
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\bin\Debug\net8.0\TDE02.deps.json
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\bin\Debug\net8.0\TDE02.runtimeconfig.json
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\bin\Debug\net8.0\TDE02.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\bin\Debug\net8.0\TDE02.pdb
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\refint\TDE02.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.pdb
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\TDE02.genruntimeconfig.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\TDE_02_C#\TDE02\obj\Debug\net8.0\ref\TDE02.dll
